@@ -1,0 +1,23 @@
+[33mcommit 98f822220696633965cded492b2888693cae1e4a[m
+Author: rudycandraskom <rudy.ben.candra@gmail.com>
+Date:   Mon Jul 28 09:57:50 2025 +0700
+
+    Clean tracked files and ignore google-services.json
+
+[33mcommit 5a3770953df1696a17ecb50fba98f94e7b366827[m
+Author: rudycandraskom <rudy.ben.candra@gmail.com>
+Date:   Mon Jul 28 09:49:10 2025 +0700
+
+    perbaikan .gitignore
+
+[33mcommit 1175be46a7262ce7ff685b9f656539f2a3a62bb4[m
+Author: rudycandraskom <rudy.ben.candra@gmail.com>
+Date:   Mon Jul 28 09:46:48 2025 +0700
+
+    Remove google-services.json from tracked files
+
+[33mcommit 58fc827159c9a33aabd36be1ebc3651be9e99719[m
+Author: rudycandraskom <rudy.ben.candra@gmail.com>
+Date:   Fri Jul 25 16:01:22 2025 +0700
+
+    Fisrt commit after converting App.tsx to App.js and updating Android resources
