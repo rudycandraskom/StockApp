@@ -74,6 +74,9 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 
+<<<<<<< HEAD
+**/google-services.json
+=======
 /app/google-services.json
 /android/app/google-services.json
 
